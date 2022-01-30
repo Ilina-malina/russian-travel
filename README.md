@@ -15,4 +15,4 @@
 
 **Ссылка на проект**
 
-* Посмотреть на проект можно по[ссылке](https://ilina-malina.github.io/russian-travel/index.html)
+* Посмотреть проект можно по [ссылке](https://ilina-malina.github.io/russian-travel/index.html)
