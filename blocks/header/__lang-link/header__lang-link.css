@@ -10,11 +10,6 @@
     font-weight: 400;
 }
 
-.header__lang-link:focus {
-    transition-duration: 1s;
-    text-decoration: underline;
-}
-
 .header__lang-link:hover {
     opacity: .8;
     transition: .3s;
